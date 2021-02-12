@@ -1,0 +1,9 @@
+/Users/irembulut/Projects/FinalProject/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/irembulut/Projects/FinalProject/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/irembulut/Projects/FinalProject/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/irembulut/Projects/FinalProject/Core/obj/Debug/netstandard2.1/Core.csprojAssemblyReference.cache
+/Users/irembulut/Projects/FinalProject/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/irembulut/Projects/FinalProject/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/irembulut/Projects/FinalProject/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/irembulut/Projects/FinalProject/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/irembulut/Projects/FinalProject/Core/obj/Debug/netstandard2.1/Core.pdb

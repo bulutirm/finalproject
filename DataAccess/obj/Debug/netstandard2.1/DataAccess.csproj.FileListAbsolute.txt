@@ -1,0 +1,14 @@
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csprojAssemblyReference.cache
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/irembulut/Projects/FinalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/Core.dll
+/Users/irembulut/Projects/FinalProject/DataAccess/bin/Debug/netstandard2.1/Core.pdb
